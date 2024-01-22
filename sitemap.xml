@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/articles/installation/</loc>
+    <loc>bigssword.github.io/articles/installation/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/</loc>
+    <loc>bigssword.github.io/articles/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>bigssword.github.io/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/structure/</loc>
+    <loc>bigssword.github.io/articles/structure/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/primary-menu/</loc>
+    <loc>bigssword.github.io/articles/primary-menu/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/social-menu/</loc>
+    <loc>bigssword.github.io/articles/social-menu/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/newsletter/</loc>
+    <loc>bigssword.github.io/articles/newsletter/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/google-analytics/</loc>
+    <loc>bigssword.github.io/articles/google-analytics/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/metatags/</loc>
+    <loc>bigssword.github.io/articles/metatags/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/design1/</loc>
+    <loc>bigssword.github.io/portfolio/design1/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/</loc>
+    <loc>bigssword.github.io/portfolio/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/design2/</loc>
+    <loc>bigssword.github.io/portfolio/design2/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/portfolio/design3/</loc>
+    <loc>bigssword.github.io/portfolio/design3/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>bigssword.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/stack/</loc>
+    <loc>bigssword.github.io/stack/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>bigssword.github.io/tags/</loc>
   </url>
 </urlset>
