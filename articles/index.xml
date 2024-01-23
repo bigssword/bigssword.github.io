@@ -34,7 +34,7 @@
       <link>https://bigssword.github.io/articles/social-menu/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://bigssword.github.io/articles/social-menu/</guid>
-      <description>The social menu can be used to configure all the social icons in the sidebar. Add links to your social media in the website config to show the icosdfsdfns.&#xA;[[menu.social]] name = &amp;#39;Twitter123123 url = &amp;#39;https://twitter.com&amp;#39; weight = 1 [[menu.social]] name = &amp;#39;Twitter&amp;#39; url = &amp;#39;https://twitter.com&amp;#39; weight = 1dsfasdfasf [[menu.social]]ddsdfsdf name = &amp;#39;Twitter&amp;#39; url = &amp;#39;https://twitter.com&amp;#39; weight = 1 The name of the social menu needs to be unique and should be one of the supported values.</description>
+      <description>조옷까라 The social menu can be used to configure all the social icons in the sidebar. Add links to your social media in the website config to show the icosdfsdfns.&#xA;[[menu.social]] name = &amp;#39;Twitter123123 url = &amp;#39;https://twitter.com&amp;#39; weight = 1 [[menu.social]] name = &amp;#39;Twitter&amp;#39; url = &amp;#39;https://twitter.com&amp;#39; weight = 1dsfasdfasf [[menu.social]]ddsdfsdf name = &amp;#39;Twitter&amp;#39; url = &amp;#39;https://twitter.com&amp;#39; weight = 1 The name of the social menu needs to be unique and should be one of the supported values.</description>
     </item>
     <item>
       <title>5. Newsletter</title>
