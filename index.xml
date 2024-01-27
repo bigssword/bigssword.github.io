@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on Personal Digital Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 19 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bigssword.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>그냥 함</title>
+      <link>https://bigssword.github.io/life/1.-%ED%95%A8/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigssword.github.io/life/1.-%ED%95%A8/</guid>
+      <description>뭔가를 얻고싶어서 하는 것은 &amp;lsquo;함&amp;rsquo;이다. 나에게 없는 것을 채우고자 하는 것은 함이다. ​&#xA;근데 설거지꺼리가 있어서 설거지를 하는 것은 그냥 하는 것이다.&#xA;뉘앙스가 다르다.&#xA;그 뉘앙스를 표현하기 위해서 사람들은 가끔 &amp;lsquo;그냥&amp;rsquo; 이라는 단어를 붙인다.&#xA;그냥 했다. 당연히 했다.&#xA;​&#xA;그 그냥 하는 것은 뭔가 간절하게 원하는 것을 위해 행동을 하는게 아니라 좀 눈앞에 있으면서 단순하면서 별 생각이 들지 않는 것들을 의미한다.&#xA;​&#xA;문제가 눈앞에 보이기 때문에 어쩔수없이, 혹은 당연히, 하는 것.</description>
+    </item>
     <item>
       <title>1. Theme Installation</title>
       <link>https://bigssword.github.io/articles/installation/</link>
@@ -91,13 +98,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bigssword.github.io/articles/%E3%85%81%E3%85%81%E3%84%B4%E3%85%87%E3%84%B9/</guid>
       <description>ㄴㅇㄹㅇㄴㄹㅇㄴㄹㄴㅁㄹ</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://bigssword.github.io/life/1.-%ED%95%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bigssword.github.io/life/1.-%ED%95%A8/</guid>
-      <description>title: 그냥 함 date: 2024-01-27 image: ​&#xA;뭔가를 얻고싶어서 하는 것은 &amp;lsquo;함&amp;rsquo;이다. 나에게 없는 것을 채우고자 하는 것은 함이다. ​&#xA;근데 설거지꺼리가 있어서 설거지를 하는 것은 그냥 하는 것이다.&#xA;뉘앙스가 다르다.&#xA;그 뉘앙스를 표현하기 위해서 사람들은 가끔 &amp;lsquo;그냥&amp;rsquo; 이라는 단어를 붙인다.&#xA;그냥 했다. 당연히 했다.&#xA;​&#xA;그 그냥 하는 것은 뭔가 간절하게 원하는 것을 위해 행동을 하는게 아니라 좀 눈앞에 있으면서 단순하면서 별 생각이 들지 않는 것들을 의미한다.&#xA;​&#xA;문제가 눈앞에 보이기 때문에 어쩔수없이, 혹은 당연히, 하는 것.</description>
     </item>
   </channel>
 </rss>
