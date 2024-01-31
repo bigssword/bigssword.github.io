@@ -8,33 +8,33 @@
   <link rel="icon" href="/favicon.ico">
 
   <title>
-    Portfolio - Bigssword&#39;s Digital Garden
+    Invests - Bigssword&#39;s Digital Garden
   </title>
 
-  <meta name="description" content="User Experience built for you" /><meta name="generator" content="Hugo 0.121.2">
+  <meta name="description" content="My Digital Garden on the Internet" /><meta name="generator" content="Hugo 0.121.2">
 
   <link rel="stylesheet" href="https://bigssword.github.io/css/main.css" />
 
   
   
 
-  <meta property="og:title" content="Portfolio" />
-<meta property="og:description" content="User Experience built for you" />
+  <meta property="og:title" content="Invests" />
+<meta property="og:description" content="My Digital Garden on the Internet" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://bigssword.github.io/portfolio/" /><meta property="og:image" content="https://bigssword.github.io/digital-garden-logo.png" />
+<meta property="og:url" content="https://bigssword.github.io/invest/" /><meta property="og:image" content="https://bigssword.github.io/digital-garden-logo.png" />
 
 
 
   <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://bigssword.github.io/digital-garden-logo.png" /><meta name="twitter:title" content="Portfolio"/>
-<meta name="twitter:description" content="User Experience built for you"/>
+<meta name="twitter:image" content="https://bigssword.github.io/digital-garden-logo.png" /><meta name="twitter:title" content="Invests"/>
+<meta name="twitter:description" content="My Digital Garden on the Internet"/>
 
 
-  <meta itemprop="name" content="Portfolio">
-<meta itemprop="description" content="User Experience built for you">
+  <meta itemprop="name" content="Invests">
+<meta itemprop="description" content="My Digital Garden on the Internet">
 
-  <meta itemprop="name" content="Portfolio">
-<meta itemprop="description" content="User Experience built for you">
+  <meta itemprop="name" content="Invests">
+<meta itemprop="description" content="My Digital Garden on the Internet">
 </head><body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:basis-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0">
   <p class="font-bold mb-5 flex items-center gap-2">
@@ -105,7 +105,7 @@
     </li>
     
     <li>
-      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 dark:selection:bg-slate-400 "
         href="/invest" >
         <span>투자</span>
         
@@ -120,7 +120,7 @@
     </li>
     
     <li>
-      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  bg-slate-800 text-white dark:bg-slate-50 dark:text-slate-800 dark:selection:bg-slate-400 "
+      <a class="px-2 py-1.5 rounded-md text-sm flex items-center justify-between  hover:bg-slate-200 dark:hover:bg-slate-700 "
         href="/portfolio" >
         <span>Portfolio</span>
         
@@ -325,35 +325,66 @@
 </svg></button>
 
 
+<div class="flex flex-1 h-screen relative w-full min-w-0">
 
-
-<main class="h-screen overflow-y-auto w-full">
-  <section class="w-full md:max-w-xl xl:max-w-4xl 2xl:max-w-7xl mx-auto flex flex-col px-6 py-20">
-    <a href="https://bigssword.github.io/portfolio/" class="inline-block">
-      <h2 class="font-bold text-4xl lg:text-6xl py-1 px-3 mb-4 inline-block">Portfolio</h2>
+  <section
+    class="w-full h-full md:min-w-[400px] md:w-1/4 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col py-3 overflow-y-auto scroll-area flex-shrink-0">
+    <a href="https://bigssword.github.io/invest/">
+      <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Invests</h2>
     </a>
-    <div class="space-y-2.5 grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-4">
-      <a class="block px-3 py-4 row-span-2" href="/portfolio/design1/">
-        
+<label class="mb-2 block px-2">
+  <span></span>
+  <input type="text" placeholder="Search articles" class="searchInput bg-white rounded px-2 py-1 w-full border" />
+</label>
+<script>
+  const searchElt = document.querySelector('.searchInput')
+  if (searchElt) {
+    searchElt.addEventListener('input', evt => {
+      const value = evt.target.value || '';
+
+      const articles = document.querySelectorAll('.article')
+      if (!value) {
+        articles.forEach(article => article.classList.remove('hidden'))
+      } else {
+        articles.forEach(article => article.classList.add('hidden'))
+        Array.from(articles).filter(article => {
+          const title = article.querySelector('h3')
+          if (!title) return false;
+
+          return title.textContent.toLowerCase().includes(value.toLowerCase())
+        }).forEach(article => article.classList.remove('hidden'))
+      }
+    })
+  }
+</script>
+<div class="space-y-2.5">
+      <a class="article block px-3 py-4 hover:bg-slate-200 dark:hover:bg-slate-700" href="/invest/%EC%A0%81%EC%A0%95-%ED%88%AC%EC%9E%90/">
 
         
-        <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">포트폴리오 예시1</h3>
         
+        <h3 class="text-lg font-semibold mb-0.5">적정한 투자</h3>
         <div class="text-sm text-slate-500 dark:text-slate-400 line-clamp-2">
-          123131313
+          ​
+많은 수익을 얻고자 하는 것은 너무 가난한 마인드다.
+투자의 원칙 중 하나가 될 수 있는 &lsquo;가진놈이 더 가진다&rsquo; 라는 것에서 벗어나버린다.
+가지지 못했으니 오히려 떨어진다.
+만약 가졌다면, 2~3 %의 수익으로도 엄청난 이득을 얻는다.
+​
+​
+그렇다면 아무리 현재 가난한 상태라고하더라도, 수백퍼센트의 수익을 원하는 것은 성립 불가능하다.
+존재하지 않는다.
+투자자로써 가장 높은 수익을 얻은 사람 중 한명인 워렌버핏이 그러한 특성을 정확히 가지고 있다는 것에서 어느정도 힌트를 얻을 수 있다.
+꾸준히 자리잡고 있는 느낌이 아닌이상 그 어떤 것도 올바른 투자가 될 수 없다.
         </div>
-        
-        <p
-          class="underline decoration-slate-500 text-slate-500 underline-offset-8 font-medium mt-2 hover:text-slate-800 hover:decoration-slate-800 dark:hover:text-slate-400 dark:hover:decoration-slate-400">
-          View Project →</p>
       </a>
-      
-      <h3 class="ml-3 py-8 lg:py-0 lg:mx-2 text-2xl lg:text-5xl font-bold lg:font-medium !leading-tight content-center">
-        User Experience built for you</h3>
-      
       </div>
   </section>
-</main>
+
+  <main class="hidden md:grid h-screen place-items-center flex-1">
+    <p class="text-center p-8 text-2xl text-slate-300 dark:text-slate-700">Select a post to read</p>
+  </main>
+
+</div>
 
 
   
